@@ -1,0 +1,15 @@
+::temp:ab|Game|ca::
+::┌┴══════┴::
+::index::::0::
+::temp:ab|Game|cab|Stats|ca::
+::┌─────────┴═══════┴::
+::index::::1::
+::temp:ab|Game|cab|Stats|cab|Map|ca::
+::┌───────────────────┴═════┴::
+::index::::2::
+::temp:ab|Game|cab|Stats|cab|Map|cab|Paperclips|ca::
+::┌───────────────────────────┴════════════┴::
+::index::::3::
+::temp:ab|Game|cab|Stats|cab|Map|cab|Paperclips|cab|Settings|ca::
+::┌──────────────────────────────────────────┴══════════┴::
+::index::::4::
